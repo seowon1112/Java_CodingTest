@@ -1,7 +1,7 @@
 import java.util.*;
 
-public class A004_Kwak_20250103 {
-    public static int[] main(int[] arr,int divisor) {;
+public class Solution {
+    public static int[] solution(int[] arr,int divisor) {;
         int answer[];
         int count=0;
         int count1=0;
