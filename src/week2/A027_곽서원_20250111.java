@@ -1,7 +1,7 @@
 class Solution {
     public String solution(String number, int k) {
         String answer = "";
-        answer="1";
+        answer="12";
         return answer;11
     }
 }
